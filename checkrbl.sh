@@ -1,6 +1,7 @@
 #!/bin/bash
 # For Postfix servers 
-# 
+# Created by Ryan Flowers
+# https://github.com/corneliusroot
 # Licensed under the MIT License
 # Count how often the RBL's are blocking mail to check for effectiveness
 
